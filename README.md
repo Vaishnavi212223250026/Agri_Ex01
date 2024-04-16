@@ -28,7 +28,10 @@
     Displays information about tcp and udp connections and ports.
 
 ## OUTPUT
-
+![alt text](<Screenshot 2024-04-15 182305-1.png>)
+![alt text](<Screenshot 2024-04-15 182936.png>)
+![alt text](<Screenshot 2024-04-15 183126-1.png>)
+![alt text](<Screenshot 2024-04-15 183115.png>)
 
 ## RESULT
   The basic commands in networking are executed successfully.
